@@ -1,6 +1,4 @@
-package NBT_FOR_STRUCTUREAPI.nbt;
-
-import org.apache.commons.lang3.ArrayUtils;
+package org.jared.structures.minecraftnbt;
 
 import java.io.DataInput;
 import java.io.DataOutput;

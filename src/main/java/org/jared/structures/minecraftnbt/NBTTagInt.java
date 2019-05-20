@@ -1,4 +1,4 @@
-package NBT_FOR_STRUCTUREAPI.nbt;
+package org.jared.structures.minecraftnbt;
 
 import java.io.DataInput;
 import java.io.DataOutput;

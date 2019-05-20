@@ -12,14 +12,5 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="module-library">
-      <library name="Maven: org.spigotmc:spigot:1.13.2">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/spigot-1.13.2.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
   </component>
 </module>
