@@ -13,7 +13,7 @@ public class StructureMain extends JavaPlugin
         instance = this;
 
         registerListeners();
-        //commmit test
+        //commit test
     }
 
     @Override
