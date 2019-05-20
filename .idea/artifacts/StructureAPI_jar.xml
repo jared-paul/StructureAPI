@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="StructureAPI:jar">
+    <output-path>$PROJECT_DIR$/../copy/lobby/plugins</output-path>
+    <root id="archive" name="StructureAPI.jar">
+      <element id="module-output" name="StructureAPI" />
+    </root>
+  </artifact>
+</component>

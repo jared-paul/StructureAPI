@@ -1,0 +1,4 @@
+name: StructureAPI
+version: 1.0
+main: org.jared.structures.plugin.StructureMain
+api-version: 1.13
